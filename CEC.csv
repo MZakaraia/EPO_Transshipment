@@ -1,0 +1,11 @@
+﻿No.,Function,F*,D,LB,UB
+1,Storn's Chebyshev Polynomial Fitting Problem ,1,9,-8192,8192
+2,Inverse Hilbert Matrix Problem ,1,16,-16384,16384
+3,Lennard-Jones Minimum Energy Cluster ,1,18,-4,4
+4,Rastrigin’s Function ,1,10,-100,100
+5,Griewangk’s Function ,1,10,-100,100
+6,Weierstrass Function ,1,10,-100,100
+7,Modified Schwefel’s Function ,1,10,-100,100
+8,Expanded Schaffer’s F6 Function ,1,10,-100,100
+9,Happy Cat Function ,1,10,-100,100
+10,Ackley Function ,1,10,-100,100

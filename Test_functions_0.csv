@@ -1,0 +1,36 @@
+Python function name,Function,Lower Bound,Upper Bound,Dimension,,,,,
+ACKLEY,Ackley,-32,32,10,,,,Ackley,Ackley
+BUKIN,Bukin N. 6,-15,5,2,,,,Bent Cigar,Bent Cigar
+CROSS_IN_TRAY,Cross-in-Tray,-10,10,2,,,,Bohachevsky,Bohachevsky
+DROP_WAVE,Drop-Wave,-5.12,5.12,2,,,,Booth,Booth
+EGGHOLDER,Eggholder,-512,512,2,,,,Bukin,Bukin N. 6
+GRIEWANK,Griewank,-600,600,10,,,,Cross-in-Tray,Cross-in-Tray
+HOLDER_TABLE,Holder Table,-10,10,2,,,,Drop Wave,Drop-Wave
+Langermann,Langermann,0,10,2,,,,Discus,Discus
+Levy,Levy,-10,10,10,,,,Easom,Easom
+Rastrigin,Rastrigin,-5.12,5.12,10,,,,Eggholder,Eggholder
+schaffer2,Schaffer N. 2,-100,100,2,,,,Griewank,Griewank
+schaffer4,Schaffer N. 4,-100,100,2,,,,Holder Table,Holder Table
+Schwefel,Schwefel,-500,500,10,,,,Michalewicz,Michalewicz
+Shubert,Shubert,-10,10,2,,,,Modified Schwefel,Modified Schwefel
+Bohachevsky,Bohachevsky,-100,100,2,,,,Rastrigin,Rastrigin
+Perm,Perm 0,-10,10,10,,,,Rosenbrock,Rosenbrock
+Rotated_Hyper_Ellipsoid,Rotated Hyper-Ellipsoid,-65.536,65.536,10,,,,Schwefel,Schwefel
+spheref,Sphere,-5.12,5.12,10,,,,six-hump,six-hump
+sumpow,Sum of Different Powers,-1,1,10,,,,Sphere,Sphere
+sumsqu,Sum Squares,-10,10,10,,,,Zakharov,Zakharov
+booth,Booth,-10,10,2,,,,,
+matya,Matyas,-10,10,2,,,,,
+mccorm,McCormick,-1.5,4,2,,,,,
+zakharov,Zakharov,-5,10,10,,,,,
+camel3,Three-Hump Camel,-5,5,2,,,,,
+camel6,Six-Hump Camel,-3,3,2,,,,,
+dixonpr,Dixon-Price,-10,10,10,,,,,
+rosen,Rosenbrock,-5,10,10,,,,,
+dejong5,De Jong N. 5,-65.536,65.536,2,,,,,
+easom,Easom,-100,100,2,,,,,
+michal,Michalewicz,0,3.141592654,10,,,,,
+bent_cigar_function,Bent Cigar,-100,100,10,,,,,
+Discus,Discus,0,100,10,,,,,
+Modified_Schwefel,Modified Schwefel,-500,500,10,,,,,
+six_hump,six-hump,-3,3,2,,,,,

@@ -1,0 +1,7 @@
+Function,Function Name,LB,UB,dim
+RosenbrockConstrained,Rosenbrock function constrained with a cubic and a line,-1.5,2.5,2
+RosenbrockConstrained2,Rosenbrock function constrained to a disk,-1.5,1.5,2
+Mishras_Bird,Mishra's Bird function - constrained,-10,0,2
+Townsend,Townsend function (modified,-2.25,2.25,2
+Gomez_and_Levy,Gomez and Levy function (modified),-1,1,2
+Simionescu,Simionescu function,-1.25,1.25,2
